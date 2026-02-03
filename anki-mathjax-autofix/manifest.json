@@ -1,0 +1,6 @@
+{
+    "name": "Auto MathJax on Paste",
+    "package": "anki-mathjax-autofix",
+    "config": {},
+    "api": "2.1"
+}
